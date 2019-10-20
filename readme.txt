@@ -34,3 +34,6 @@ git remote add origin <Repo URL>
 
 Push your repo to github
 git push -u origin master
+
+Clone an existing repo
+git clone <Repo URL>
