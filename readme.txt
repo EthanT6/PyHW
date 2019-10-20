@@ -24,3 +24,9 @@ git checkout -b test-branch
 
 Merge your branch with master
 git merge test-branch
+
+Add your repo origin
+git remote add origin <Repo URL>
+
+Push your repo to github
+git push -u origin master
