@@ -1,3 +1,7 @@
+This repository is for the purpose of learning the basics of Git and Github, while also practicing Python.
+
+Git and Github How-To
+
 Create a project folder.
 mkdir PyHW
 
